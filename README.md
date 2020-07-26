@@ -24,6 +24,11 @@
 
 ## Instructor
 
-![Kirill Eremenko](https://github.com/Ashleshk/Tableau-10-A-Z-Hands-on-Tableau-Training-for-Data-Science-Udemy/blob/master/resource/kiril.jpg)
+![Kirill Eremenko](https://github.com/Ashleshk/Modern-Natural-Language-Processing-in-Python-Udemy/blob/master/resource/kiril.jpg)
 
 > **Kirill Eremenko** ,Data Scientist
+
+## Reference Links
+1. **Course Reference Thumbnail**
+
+![Course Description](https://github.com/Ashleshk/TensorFlow-2.0-Complete-Reference-Course/blob/master/Resources/Description.PNG)
