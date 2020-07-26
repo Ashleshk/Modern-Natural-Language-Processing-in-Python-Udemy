@@ -21,3 +21,9 @@
 
 ## Certificate
 >  [Verifed Certificate](https://www.udemy.com/certificate/UC-ab49828e-5c2c-4b8a-bcef-5259d9153a10/)
+
+## Instructor
+
+![Kirill Eremenko](https://github.com/Ashleshk/Tableau-10-A-Z-Hands-on-Tableau-Training-for-Data-Science-Udemy/blob/master/resource/kiril.jpg)
+
+> **Kirill Eremenko** ,Data Scientist
