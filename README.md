@@ -24,7 +24,9 @@
 
 ## Instructor
 
-![Kirill Eremenko](https://github.com/Ashleshk/Modern-Natural-Language-Processing-in-Python-Udemy/blob/master/resource/kiril.jpg)
+| **Image**        | **Name**           | **Designation**  |
+| :-------------: |:-------------:|:-----:|
+![Kirill Eremenko](https://github.com/Ashleshk/Modern-Natural-Language-Processing-in-Python-Udemy/blob/master/resource/kiril.jpg)| **Kirill Eremenko** | Data Scientist |
 
 > **Kirill Eremenko** ,Data Scientist
 
