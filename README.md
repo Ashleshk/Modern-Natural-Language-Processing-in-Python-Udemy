@@ -28,6 +28,7 @@
 | :-------------: |:-------------:|:-----:|
 ![Kirill Eremenko](https://github.com/Ashleshk/Modern-Natural-Language-Processing-in-Python-Udemy/blob/master/resource/kiril.jpg)| **Kirill Eremenko** | Data Scientist |
 |![Martin Jocqueviel](https://github.com/Ashleshk/Modern-Natural-Language-Processing-in-Python-Udemy/blob/master/resource/martin.jpg)| **Martin Jocqueviel**|Freelance data scientist|
+|![Hadelin de Ponteves]()|**Hadelin de Ponteves**|AI Entrepreneur|
 
 > **Kirill Eremenko** ,Data Scientist
 
