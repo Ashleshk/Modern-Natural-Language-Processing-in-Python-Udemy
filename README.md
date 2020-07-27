@@ -32,3 +32,5 @@
 1. **Course Reference Thumbnail**
 
 ![Course Description](https://github.com/Ashleshk/Modern-Natural-Language-Processing-in-Python-Udemy/blob/master/resource/description.PNG)
+
+ > [Udemy](https://www.udemy.com/share/102fxSBUEecFdWRnQ=/)
