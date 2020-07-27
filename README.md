@@ -34,3 +34,7 @@
 ![Course Description](https://github.com/Ashleshk/Modern-Natural-Language-Processing-in-Python-Udemy/blob/master/resource/description.PNG)
 
  > [Udemy](https://www.udemy.com/share/102fxSBUEecFdWRnQ=/)
+
+ 2. **Provided By**
+
+![Super Data Science Team](https://github.com/Ashleshk/Modern-Natural-Language-Processing-in-Python-Udemy/blob/master/resource/27129696_acc1.jpg)
